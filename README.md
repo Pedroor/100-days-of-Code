@@ -8,7 +8,7 @@ Challenge being fulfilled by: [Pedro Arthur](https://github.com/Pedroor/)
 2.  Tweet your progress every day with the #100DaysOfCode hashtag.
 
 ### Twitter posting
-[Day 1](https://twitter.com/Progranmer/status/1399770343712215040) | [Day 2](https://twitter.com/Progranmer/status/1400076370122842112) |   [Day 3](https://twitter.com/Progranmer/status/1400428144939634688) |  [Day 4](https://twitter.com/Progranmer/status/1400812370289696772) | [Day 5](https://twitter.com/Progranmer/status/1401265541281628162) | [Day 6](https://twitter.com/Progranmer/status/1401592735006695432) | [Day 7](https://twitter.com/Progranmer/status/1401922208918872075) | 
+[Day 1](https://twitter.com/Progranmer/status/1399770343712215040) | [Day 2](https://twitter.com/Progranmer/status/1400076370122842112) |   [Day 3](https://twitter.com/Progranmer/status/1400428144939634688) |  [Day 4](https://twitter.com/Progranmer/status/1400812370289696772) | [Day 5](https://twitter.com/Progranmer/status/1401265541281628162) | [Day 6](https://twitter.com/Progranmer/status/1401592735006695432) | [Day 7](https://twitter.com/Progranmer/status/1401922208918872075) | [Day 8](https://twitter.com/Progranmer/status/1402245307786747908) | 
 
 
 
