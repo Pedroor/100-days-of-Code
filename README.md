@@ -16,7 +16,7 @@ Challenge being fulfilled by: [Pedro Arthur](https://github.com/Pedroor/)
 
 
 ### Motivation
-.
+..
 > I've decided to take the 100 days of code challenge because I want to develop a coding study routine and improve my tech skills. I love computing and I believe the #100DaysOfCode challenge will help me to become a better programmer!
 
 <img alt="teste" src="https://avatars.githubusercontent.com/pedroor" width="250px" align="center" />
